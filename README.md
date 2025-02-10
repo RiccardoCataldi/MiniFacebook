@@ -1,0 +1,1 @@
+This project aims to develop a simplified version of a social networking platform, akin to Facebook, using PHP for backend development and JavaScript for frontend interactivity. By merging server-side scripting with client-side programming, the project empowers users to connect, share content, and engage within a simulated online community environment.
